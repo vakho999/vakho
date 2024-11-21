@@ -1,0 +1,25 @@
+1)* {}
+2)p {}
+3)#div
+4).comment {}
+5)div > h3 {}
+6)div h3 {}
+7)hr+div
+8)div~hr
+9)input.email {}
+10)h2, h3 {}
+11)li > div {}
+12)p not "Contact Us Form" {}
+13)ul > div "Social Media Post" {}
+14).iframe[width=300,height=200] {}
+15)rule defined becouse its more specific
+16)font-family: Arial
+17)yes
+18)#specific h3 { color: green; }
+19)the universal font-family doesnt apply to an iframe because iframe page doesnt inherit css
+20)color of the inline style will be used
+21)descendant rule applies
+22)no
+23)both
+24)blue
+25)brawsers default size
